@@ -3,10 +3,9 @@
 <body>
 
 <?php
-echo "<h2>PHP is Fun!</h2>";
-echo "Hello world!<br>";
-echo "I'm about to learn PHP!<br>";
-echo "This ", "string ", "was ", "made ", "with multiple parameters.";
+echo "<h1>Tugas Adminitrasi Server!</h1>";
+echo "<h3>Selesai.</h1>";
+
 ?> 
 
 </body>
